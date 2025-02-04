@@ -1,4 +1,3 @@
-// script.js
 let currentInput = "";
 
 function appendValue(value) {
